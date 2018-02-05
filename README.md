@@ -1,4 +1,4 @@
-# Form Simulator
+# Form Generator
 
 This is a Form Configurator app, which simulates the dynamic form generation based on configurations added by user. 
 
